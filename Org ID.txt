@@ -1,1 +1,7 @@
 Salesforce.com Organization ID	00DNS00000IbsFB
+
+URL: https://login.salesforce.com
+ 
+Username: epic.3f28914cb5c9@orgfarm.com
+ 
+Password: orgfarm1234
